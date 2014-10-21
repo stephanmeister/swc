@@ -28,5 +28,5 @@ echo --- removing zip file ---
 rm rawdata.zip
 
 echo 
-echo --- Available files ---
+echo --- Available csv files ---
 ls *.csv
